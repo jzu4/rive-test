@@ -1,0 +1,25 @@
+Package: cn.zqbb.disupdateapp
+Architecture: iphoneos-arm
+Version: 1.1.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 732
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debian_file/cn.zqbb.disupdateapp_1.1.0-1_iphoneos-arm.deb
+Size: 133032
+MD5sum: c1042c715a35561402d9948085322cd8
+SHA1: 02facc526720550938477c5c06f47075ce8ddd93
+SHA256: 34066095ba6c74c023c11e4b336e3b3cdee273e4e55b29a27770e292fd4e2f2b
+SHA512: 23a1a703e8a9ff9220bca594133f249bdea39a0294a035ab00a5fb44f92d410e11d34f8b3ff1dd30507432b5a7324d712ad4184862a3dbcf05bfe3a83081b004
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+Description: Block App Store Updates!
+Tag: purpose::extension
+Name: BlockAppUpdate 屏蔽App Store更新
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disupdateappDp
+SileoDepiction: https://rootless.zq666.eu.org/web/cn.zqbb.orzfolder
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: zqbb <w2599z@gmail.com>
+dev: zqbb
+Icon: file:///var/jb/Library/PreferenceBundles/duapre.bundle/icon@2x.png
+
